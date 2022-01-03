@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Note App</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="search">search notes</string>
+    <string name="recently_notes">Recently Notes</string>
+    <string name="title">Title</string>
+    <string name="details">details</string>
+    <string name="date">12/10/2021</string>
+    <string name="all_notes">All Notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="task">task</string>
+    <string name="insert_note">Insert Note</string>
+    <string name="add_task">Add Task</string>
+    <string name="update_note">Update Note</string>
+</resources>
